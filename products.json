@@ -1,0 +1,46 @@
+{
+  "product":[
+    {
+      "id":1,
+      "name":"Cat Foods",
+      "price":100,
+      "imgUrl": "https://raw.githubusercontent.com/b019782k/images/main/cat.png",
+      "description":"Product 3 description"
+    },
+    {
+      "id":2,
+      "name":"Dog Foods",
+      "price":200,
+      "imgUrl": "https://raw.githubusercontent.com/b019782k/images/main/dog.png",
+      "description":"Product 2 description"
+    },
+    {
+      "id":3,
+      "name":"Bird Feeds",
+      "price":300,
+      "imgUrl": "https://raw.githubusercontent.com/b019782k/images/main/bird.png",
+      "description":"Product 3 description"
+    },
+    {
+      "id":4,
+      "name":"Fish Foods",
+      "price":300,
+      "imgUrl": "https://raw.githubusercontent.com/b019782k/images/main/bird.png",
+      "description":"Product 3 description"
+    },
+    {
+      "id":5,
+      "name":"Pet Toys",
+      "price":300,
+      "imgUrl": "https://raw.githubusercontent.com/b019782k/images/main/toy.png",
+      "description":"Product 3 description"
+    },
+    {
+      "id":6,
+      "name":"Pet Furnitures",
+      "price":300,
+      "imgUrl": "https://raw.githubusercontent.com/b019782k/images/main/fur.png",
+      "description":"Product 3 description"
+    }
+  ]
+}
